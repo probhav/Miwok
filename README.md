@@ -9,12 +9,12 @@ An app to explore the language
 
 
 <img src="images1/r.jpeg" width=250>
-<br>
+
 
 <img src="images1/q.jpeg" width=250>
-<br>
+
 <img src="images1/w.jpeg" width=250>
 <br>
 <img src="images1/e.jpeg" width=250>
-<br>
+
 <img src="images1/t.jpeg" width=250>
